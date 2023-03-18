@@ -11,3 +11,7 @@
 
 ## 4. CI/CD with Github actions
 * Github actions: [https://docs.github.com/en/actions]
+
+## 5. Project to deploy
+* readworld-docs: [https://www.realworld.how/docs/intro/]
+* realworld-projects: [https://codebase.show/projects/realworld?category=frontend]
